@@ -1,4 +1,3 @@
-<img width="1897" height="951" alt="image" src="https://github.com/user-attachments/assets/1af54e5e-35ae-42b5-9d06-02977ea0aef1" /># 🍽 EatWave – Online Food Ordering Website
 
 EatWave is a modern, responsive and visually clean food delivery website that allows users to quickly explore restaurants, search by location, choose categories and place orders effortlessly.  
 Fast, simple and beautifully designed — deployed live on Netlify.
